@@ -1,0 +1,46 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+    text-align:  center;
+}
+
+.card{
+    margin: auto;
+    margin-top: 10%;
+    text-align: center;
+    padding-top: 2rem;
+    background-color: hsl(0, 0%, 100%);
+    border-style: solid;
+    border-radius: 4%;
+    width: 28rem;
+    height: 40rem;
+}
+
+.inner{
+    width: 25rem;
+    margin: auto;
+}
+
+.image{
+    width: 23rem;
+    height: auto;
+    border-radius: 4%;
+}
+
+
+.title{
+    font-weight: bold;
+    font-size: 1.65rem;
+}
+
+.paragraph{
+    font-size: 1.4rem;
+}
+
+.colored{
+    color: hsl(212, 45%, 89%);
+}
+
+.text{
+    margin: auto;
+    width: 21rem;
+}
