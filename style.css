@@ -6,10 +6,10 @@ body{
 .card{
     margin: auto;
     margin-top: 7%;
+    margin-bottom: 5rem;
     text-align: center;
     padding-top: 2rem;
     background-color: hsl(0, 0%, 100%);
-    border-style: solid;
     border-radius: 4%;
     width: 28rem;
     height: 40rem;
